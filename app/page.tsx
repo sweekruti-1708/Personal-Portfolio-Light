@@ -101,10 +101,10 @@ export default function Home() {
     <main className="portfolio-shell">
       <div className="page-frame">
         <header className="topbar">
-          <div className="brand-mark">
+          <a href="#hero" className="brand-mark">
             <span className="brand-initial">S</span>
             <span className="brand-label">MAHAPATRA</span>
-          </div>
+          </a>
           <nav className="top-actions">
             <a href="#about" className="nav-link">
               About
