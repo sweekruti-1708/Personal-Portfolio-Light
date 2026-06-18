@@ -305,7 +305,7 @@ export default function Home() {
             <div className="contact-card glass-card">
               <h3>Let's connect</h3>
               <p>
-                Reach out for strategy projects, legal-business advisory, or leadership-focused opportunities.
+                Feel free to reach out! Would love to connect with everyone.
               </p>
               <div className="contact-list">
                 <a href="mailto: sweekruti1708@gmail.com "> sweekruti1708@gmail.com </a>
