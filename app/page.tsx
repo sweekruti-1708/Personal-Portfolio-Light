@@ -138,8 +138,8 @@ export default function Home() {
               intersection of law and business.
             </p>
             <div className="hero-actions">
-              <a href="/resume.txt" download="Sweekruti_Mahapatra_Resume.txt" className="btn btn-primary">
-                Resume
+              <a href="#about" className="btn btn-primary">
+                About Me
               </a>
               <a href="#contact" className="btn btn-outline">
                 Contact
@@ -308,12 +308,9 @@ export default function Home() {
                 Reach out for strategy projects, legal-business advisory, or leadership-focused opportunities.
               </p>
               <div className="contact-list">
-                <a href="mailto:sweekruti.mahapatra@ximb.edu.in">sweekruti.mahapatra@ximb.edu.in</a>
+                <a href="mailto: sweekruti1708@gmail.com "> sweekruti1708@gmail.com </a>
                 <a href="https://www.linkedin.com/in/sweekruti-mahapatra" target="_blank" rel="noreferrer">
                   LinkedIn
-                </a>
-                <a href="/resume.txt" download="Sweekruti_Mahapatra_Resume.txt" className="text-gold-link">
-                  Download résumé
                 </a>
               </div>
             </div>
